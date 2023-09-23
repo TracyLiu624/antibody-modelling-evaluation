@@ -1,0 +1,53 @@
+{
+    "abdb_angle": -46.673304,
+    "model_angle": -46.332774,
+    "cdr": [
+        "H1",
+        "H2",
+        "H3",
+        "L1",
+        "L2",
+        "L3",
+        "HFR",
+        "H1",
+        "H2",
+        "H3",
+        "LFR",
+        "L1",
+        "L2",
+        "L3"
+    ],
+    "rmsd": [
+        0.202,
+        0.183,
+        0.212,
+        0.225,
+        0.11,
+        0.311,
+        0.53,
+        0.495,
+        0.437,
+        0.494,
+        0.326,
+        0.304,
+        0.307,
+        0.599
+    ],
+    "fitting": [
+        "local",
+        "local",
+        "local",
+        "local",
+        "local",
+        "local",
+        "global",
+        "global",
+        "global",
+        "global",
+        "global",
+        "global",
+        "global",
+        "global"
+    ],
+    "abdb_id": "1a6u_0"
+}

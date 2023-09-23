@@ -1,0 +1,10 @@
+dataset:
+  abdb: "data/native"
+
+executable:
+  profit: "/usr/local/bin/profit"
+  abpackingangle: "/usr/local/bin/abpackingangle"
+
+pre-defined-process:
+  profit_local_fitting: "scripts/profit-scripts/local-fitting.txt"
+  profit_global_fitting: "scripts/profit-scripts/global-fitting.txt"
